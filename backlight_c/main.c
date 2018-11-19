@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 #include "serial.h"
+#include "audio.h"
 
 char serial_portname_arg[] = "/dev/ttyACM0";
 
