@@ -1,0 +1,7 @@
+pactl load-module module-loopback latency_msec=1
+pactl unload-module module-loopback
+
+
+
+portaudio can't record from output device
+try WSAPI on windows
